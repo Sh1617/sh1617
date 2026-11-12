@@ -295,7 +295,19 @@ A platform designed to help job seekers optimize their resumes according to spec
 
 ### 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sh1617&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/Sh1617">
+<img src="https://img.shields.io/badge/VIEW-GITHUB%20ACHIEVEMENTS-7C3AED?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<i>Explore my GitHub profile for achievements, contributions and open-source activity.</i>
+
+</div>
 
 </div>
 
