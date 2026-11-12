@@ -326,31 +326,6 @@ A platform designed to help job seekers optimize their resumes according to spec
 
 ---
 
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<p><i>Every contribution is a step forward. Keep building! 🚀</i></p>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sh1617/Sh1617/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sh1617/Sh1617/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake Animation"
-    src="https://raw.githubusercontent.com/Sh1617/Sh1617/output/github-contribution-grid-snake.svg"
-    width="100%"
-  />
-</picture>
-
-</div>
-
----
 
 # 🤝 Let's Connect
 
