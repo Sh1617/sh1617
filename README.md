@@ -301,11 +301,26 @@ A platform designed to help job seekers optimize their resumes according to spec
 
 ---
 
-# 📈 Contribution Activity
+
+# 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh1617&theme=tokyo-night&hide_border=true&area=true&custom_title=Shruti's%20Contribution%20Graph" width="100%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sh1617/Sh1617/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sh1617/Sh1617/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Sh1617/Sh1617/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Shruti's GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
 
