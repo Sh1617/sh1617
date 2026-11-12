@@ -293,8 +293,6 @@ A platform designed to help job seekers optimize their resumes according to spec
 
 <br/><br/>
 
-### 🏆 GitHub Achievements
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
