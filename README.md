@@ -242,34 +242,37 @@ A platform designed to help job seekers optimize their resumes according to spec
 
 <div align="center">
 
-**Programming & Backend**
+### 💻 Programming & Backend Engineering
 
 <img src="https://skillicons.dev/icons?i=python,java,js,fastapi,django,flask,postgres" />
 
 <br/><br/>
 
-**AI & Machine Learning**
+### 🤖 AI, Machine Learning & Data Science
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-
-<br/><br/>
-
-**Data Science**
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas" />
 
 <br/><br/>
 
-**Tools & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=docker,gcp,git,github,linux,vscode" />
-
-<br/><br/>
-
+<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
+
+<br/><br/>
+
+### ☁️ Cloud, DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,git,github,linux,vscode" />
+
+<br/><br/>
+
+### 🔧 Development Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=redis,mysql,sqlite,postman,githubactions" />
 
 </div>
 
